@@ -26,5 +26,11 @@
         "bs": "synergize scalable supply-chains"
       }
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ]
 }
